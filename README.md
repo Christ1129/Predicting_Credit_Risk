@@ -27,3 +27,9 @@ RandomForestClassifier scaled score: 0.9914878250103177
 ### Conclusion
 
 Scaling the data using Standard Scaler improved test prediction accuracy by nearly 0.2 basis points for the logistic regression model ( 0.9918489475856377 to 0.9936545604622369), but there was any noticeable improvement for the random forest classifier when scaling data with StandardScaler It's surprising, but LogisticRegression with data scaled using StandardScaler performed better than any of the other 3 models with an accuracy of 0.9936545604622369.
+
+<hr>
+Contact : 
+
+* tourteau.christian@gmail.com
+* https://www.linkedin.com/in/christian-tourteau/
